@@ -70,4 +70,4 @@ async def on_message(message):
         
 if __name__ == '__main__':
     keep_alive.keep_alive()
-    bot.run('ODcyNDg4NjA0NDUzMTg3NTg0.YQqmVQ.4MCJ9peKQ4Vu05bwU97TbVJZBjI') #TOKEN 在剛剛 Discord Developer 那邊「BOT」頁面裡面
+    bot.run('token') #TOKEN 在剛剛 Discord Developer 那邊「BOT」頁面裡面
